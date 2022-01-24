@@ -1,13 +1,13 @@
 # Zemoga portfolio java web app
 Simple portfolio Java web app that displays the profile image, name, some text with the experience and a 5 tweet list of the user’s Twitter timeline.
 
-##Software prerequisites
+## Software prerequisites
 
 - Java 11 installed
 - Git installed
 - Any Java IDE installed
 
-##Technologies used
+## Technologies used
 
 - MySQL
 - Java 11
@@ -18,7 +18,7 @@ Simple portfolio Java web app that displays the profile image, name, some text w
 - Mapstruct
 - Lombok
 
-##How to get the application up and running?
+## How to get the application up and running?
 
 ### 1. Clone the project from [GitHub](https://github.com/hdespaigne87/zemoga-portfolio-java-web-app) using the following command
 
@@ -94,12 +94,12 @@ $ .././mvnw spring-boot:run
 
 ### 9. Open the application in the browser
 
-####NOTE: Supposing the Web Frontend is exposed on port 8080 and the REST API on port 8081. The URLs to access are:
+#### NOTE: Supposing the Web Frontend is exposed on port 8080 and the REST API on port 8081. The URLs to access are:
 
 - Web Frontend [http://localhost:8080/](http://localhost:8080/)
 - REST API [http://localhost:8081/swagger-ui/](http://localhost:8081/swagger-ui/)
 
-##Total time to complete the test
+## Total time to complete the test
 
 The total time dedicated to this application was 5 hours. The main performed activities were:
 
